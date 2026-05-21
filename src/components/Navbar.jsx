@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="flex justify-between items-center p-4 bg-gray-900 text-white">
       <h1 className="text-xl font-bold">Brayan Malova</h1>
       <div className="space-x-4">
-       // <Link to="/">Home</Link>
+      
         <Link to="/projects">Projects</Link>
         <Link to="/about">About</Link>
         <Link to="/contact">Contact</Link>
